@@ -1,4 +1,5 @@
 # React + Vite
+Note: Uncomment Component ('MyCourses') from App.js to see My Courses
 
 ![ScreenShot-1](https://github.com/mrpp2001/CourseWhiz-Pratik/assets/77163888/eb2d4811-1710-40f3-a1ee-aa84ab3fc24c)
 ![ScreenShot-2](https://github.com/mrpp2001/CourseWhiz-Pratik/assets/77163888/700818bc-2b19-42be-a236-e22fa56bb30d)
